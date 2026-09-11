@@ -40,13 +40,13 @@ https://www.mozilla.org/en-US/MPL/2.0/.`,
   ACCENT_COLOR: '#4800cc',
   SOURCE_CODE: 'https://github.com/PotentiaMod/packager',
   FEEDBACK_PRIMARY: {
-    name: 'MistWarp',
-    link: 'https://warp.mistium.com/users/GaiaKitty'
+    name: 'FaceBook',
+    link: 'https://www.facebook.com/CrystalMae1990/'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
     link: 'https://github.com/PotentiaMod/scratch-gui/issues'
   },
   DONATE: '',
-  PRIVACY_POLICY: 'https://turbowarp.org/privacy.html',
+  PRIVACY_POLICY: 'https://potentiamod.github.io/online/privacy.html',
 };
