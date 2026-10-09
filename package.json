@@ -1,6 +1,6 @@
 {
-  "name": "@turbowarp/packager",
-  "version": "3.13.0",
+  "name": "@potentiamod/packager",
+  "version": "1.2.0",
   "description": "Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.",
   "main": "dist/packager.js",
   "scripts": {
@@ -17,18 +17,18 @@
     "prepublishOnly": "npm run test && npm run build-node-prod && node src/build/nodejs/update-readme.js node",
     "postpublish": "node src/build/nodejs/update-readme.js restore"
   },
-  "author": "GarboMuffin",
-  "homepage": "https://github.com/TurboWarp/packager#readme",
+  "author": "GaiaWindWave90",
+  "homepage": "https://github.com/PotentiaMod/packager#readme",
   "keywords": [
     "scratch",
     "packager"
   ],
   "bugs": {
-    "url": "https://github.com/TurboWarp/packager/issues"
+    "url": "https://github.com/PotentiaMod/packager/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurboWarp/packager.git"
+    "url": "git+https://github.com/PotentiaMod/packager.git"
   },
   "license": "MPL-2.0",
   "dependencies": {
@@ -56,7 +56,7 @@
     "rimraf": "^2.7.1",
     "scratch-audio": "github:TurboWarp/scratch-audio#develop",
     "scratch-render": "github:TurboWarp/scratch-render#develop",
-    "scratch-vm": "github:TurboWarp/scratch-vm#develop",
+    "scratch-vm": "github:PotentiaMod/scratch-vm#develop",
     "style-loader": "^2.0.0",
     "svelte": "^3.44.3",
     "svelte-loader": "^3.1.2",
