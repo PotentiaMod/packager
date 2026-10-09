@@ -56,6 +56,7 @@
     "rimraf": "^2.7.1",
     "scratch-audio": "github:TurboWarp/scratch-audio#develop",
     "scratch-render": "github:TurboWarp/scratch-render#develop",
+    "scratch-render-fonts": "github:TurboWarp/scratch-render-fonts",
     "scratch-vm": "github:PotentiaMod/scratch-vm#develop",
     "style-loader": "^2.0.0",
     "svelte": "^3.44.3",
